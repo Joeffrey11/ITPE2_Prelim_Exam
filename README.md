@@ -1,5 +1,1 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+I'm Joeffrey F. Bautista. My hobbies are playing basketball and playing online games.
